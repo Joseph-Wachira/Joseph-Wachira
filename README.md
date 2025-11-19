@@ -1,5 +1,5 @@
  <h1 align="center">Hi , I'm Joseph</h1>
-<h3 align="center">I’m a Computer Science student and photographer with a passion for building interactive web experiences and exploring the intersection of technology and visual storytelling</h3>
+<h3 align="center">I’m a Computer Science student with a passion for building interactive web experiences and exploring the intersection of technology and visual storytelling</h3>
 
 - 📫 How to reach me **josephwachira505@gmail.com**
 
