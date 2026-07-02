@@ -50,7 +50,7 @@
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 <p align="left">
@@ -69,16 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephwachira&show_icons=true&theme=radical" alt="Joseph's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephwachira&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephwachira&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
 
